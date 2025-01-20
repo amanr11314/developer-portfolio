@@ -9,7 +9,7 @@ export const experiences = [
     id: 2,
     title: 'FullStack Developer',
     company: "Clerisy Solutions.",
-    duration: "(June 2023 - May 2025)"
+    duration: "(June 2023 - May 2024)"
   },
   {
     id: 3,
