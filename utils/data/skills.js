@@ -1,5 +1,5 @@
 export const skillsData = [
-  'Angular', 'Typescript', 'React', 'Javascript', 'React Native', 'SCSS', 'Redux', 'NodeJS', 'ExpressJS', 'NestJS', 'GraphQL', 'Django', 'JDBC', 'Sequelize', 'PostgreSQL', 'MySQL', 'HTML', 'CSS', 'Tailwind', 'Java', 'GCP',
+  'Angular', 'Typescript', 'Javascript', 'NestJS', 'Python', 'PostgreSQL', 'Go', 'Docker', 'React', 'React Native', 'Selenium', 'SCSS', 'Redux', 'NodeJS', 'ExpressJS', 'GraphQL', 'Django', 'JDBC', 'Sequelize', 'MySQL', 'HTML', 'CSS', 'Tailwind', 'Java', 'GCP',
 ]
 
 // Choose your skills from below. Make sure it's in the same format and spelled correctly.
